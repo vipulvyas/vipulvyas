@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vipul Vyas</h1>
-<h3 align="center">A highly focused, curiosity-driven, and self-motivated individual. A passionate developer with excellent interpersonal skills and learning abilities with a quest and zeal to learn new technologies. Flexible to work outside the area of expertise as an independent contributor, as well as a team player. Creative problem-solver with strong analytical skills. Loves to work in a fast-paced environment building scalable, high-performance, maintainable, testable, responsive, and secure apps with great user experience and code coverage.</h3>
+<h3 align="center">A young-dumb nerd_face full stack developer from India india.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipulvyas" alt="vipulvyas" /></a> </p>
 
