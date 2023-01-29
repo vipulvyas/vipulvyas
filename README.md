@@ -28,10 +28,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Scale WebSocket using Redis and HAProxy](https://vipulvyas.medium.com/scale-websocket-using-redis-and-haproxy-8e09e4d6ae87?source=rss-1f5b5f622e7------2)
 - [WebSocket](https://vipulvyas.medium.com/websocket-e6e638060f4b?source=rss-1f5b5f622e7------2)
 - [Tips for System Design Interview](https://vipulvyas.medium.com/tips-for-system-design-interview-d60aeb836b49?source=rss-1f5b5f622e7------2)
 - [System Design Basics](https://vipulvyas.medium.com/system-design-basics-f43b11466772?source=rss-1f5b5f622e7------2)
-- [Run Docker](https://vipulvyas.medium.com/run-docker-af4886da24e1?source=rss-1f5b5f622e7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
