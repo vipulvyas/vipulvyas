@@ -28,10 +28,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Potential of Microservice Design Patterns: A Journey into Scalable and Resilient…](https://vipulvyas.medium.com/unlocking-the-potential-of-microservice-design-patterns-a-journey-into-scalable-and-resilient-4abd98574580?source=rss-1f5b5f622e7------2)
 - [An In-depth Guide to Amazon S3: Secure, Scalable, and Simple Storage](https://vipulvyas.medium.com/an-in-depth-guide-to-amazon-s3-secure-scalable-and-simple-storage-70a6853313a5?source=rss-1f5b5f622e7------2)
 - [A Comparison of AWS Storage: S3 vs EBS vs EFS](https://vipulvyas.medium.com/a-comparison-of-aws-storage-s3-vs-ebs-vs-efs-c5cc95834034?source=rss-1f5b5f622e7------2)
 - [Docker Networking](https://vipulvyas.medium.com/docker-networking-9da1377b949c?source=rss-1f5b5f622e7------2)
-- [Understanding AWS Lambda Throttling: What It Is, Why It Happens, and How to Handle It](https://vipulvyas.medium.com/understanding-aws-lambda-throttling-what-it-is-why-it-happens-and-how-to-handle-it-ba49d30cdc2c?source=rss-1f5b5f622e7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
