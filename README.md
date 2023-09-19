@@ -28,10 +28,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding COUNT&lpar;id&rpar; vs. COUNT&lpar;*&rpar; and MySQL Query Optimization](https://vipulvyas.medium.com/understanding-count-id-vs-count-and-mysql-query-optimization-2976b5011308?source=rss-1f5b5f622e7------2)
 - [Understanding Database Internals: How Tables and Indexes are Stored on Disk and Queried](https://vipulvyas.medium.com/understanding-database-internals-how-tables-and-indexes-are-stored-on-disk-and-queried-7cf09a6a48a4?source=rss-1f5b5f622e7------2)
 - [ACID Property: Ensuring Data Integrity and Reliability in Database Transactions](https://vipulvyas.medium.com/acid-property-ensuring-data-integrity-and-reliability-in-database-transactions-9e47df4dab85?source=rss-1f5b5f622e7------2)
 - [Unlocking the Potential of Microservice Design Patterns: A Journey into Scalable and Resilient…](https://vipulvyas.medium.com/unlocking-the-potential-of-microservice-design-patterns-a-journey-into-scalable-and-resilient-4abd98574580?source=rss-1f5b5f622e7------2)
-- [An In-depth Guide to Amazon S3: Secure, Scalable, and Simple Storage](https://vipulvyas.medium.com/an-in-depth-guide-to-amazon-s3-secure-scalable-and-simple-storage-70a6853313a5?source=rss-1f5b5f622e7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
