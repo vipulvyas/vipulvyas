@@ -26,7 +26,7 @@
 
 - ⚡ Fun fact: I use tabs over spaces  
 
-### Blogs posts
+### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Mastering AWS IAM: A Comprehensive Guide to Assuming Roles](https://vipulvyas.medium.com/mastering-aws-iam-a-comprehensive-guide-to-assuming-roles-c79d8e381dc6?source=rss-1f5b5f622e7------2)
 - [Understanding COUNT&lpar;id&rpar; vs. COUNT&lpar;*&rpar; and MySQL Query Optimization](https://vipulvyas.medium.com/understanding-count-id-vs-count-and-mysql-query-optimization-2976b5011308?source=rss-1f5b5f622e7------2)
