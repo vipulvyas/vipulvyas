@@ -12,7 +12,7 @@
 
   
 
-- 📙 I regularly write articles on [medium](https://vipulvyas0813.medium.com/)  
+- 📙 I regularly write articles on [medium](https://vipulvyas.medium.com/)  
   
 
 - 📫 How to reach me vipulvyas0813@gmail.com  
