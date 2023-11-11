@@ -28,10 +28,10 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Feature Flags in MySQL: A Bitwise Approach](https://vipulvyas.medium.com/optimizing-feature-flags-in-mysql-a-bitwise-approach-c8cc088f5a63?source=rss-1f5b5f622e7------2)
 - [Mastering AWS IAM: A Comprehensive Guide to Assuming Roles](https://vipulvyas.medium.com/mastering-aws-iam-a-comprehensive-guide-to-assuming-roles-c79d8e381dc6?source=rss-1f5b5f622e7------2)
 - [Understanding COUNT&lpar;id&rpar; vs. COUNT&lpar;*&rpar; and MySQL Query Optimization](https://vipulvyas.medium.com/understanding-count-id-vs-count-and-mysql-query-optimization-2976b5011308?source=rss-1f5b5f622e7------2)
 - [Understanding Database Internals: How Tables and Indexes are Stored on Disk and Queried](https://vipulvyas.medium.com/understanding-database-internals-how-tables-and-indexes-are-stored-on-disk-and-queried-7cf09a6a48a4?source=rss-1f5b5f622e7------2)
-- [ACID Property: Ensuring Data Integrity and Reliability in Database Transactions](https://vipulvyas.medium.com/acid-property-ensuring-data-integrity-and-reliability-in-database-transactions-9e47df4dab85?source=rss-1f5b5f622e7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
