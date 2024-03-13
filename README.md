@@ -28,10 +28,10 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB Internal — Part 1](https://vipulvyas.medium.com/mongodb-internal-part-1-e21e7c17b2f5?source=rss-1f5b5f622e7------2)
 - [Top SQL Interview Question](https://vipulvyas.medium.com/top-sql-interview-question-680e18cb8d56?source=rss-1f5b5f622e7------2)
 - [Optimizing Feature Flags in MySQL: A Bitwise Approach](https://vipulvyas.medium.com/optimizing-feature-flags-in-mysql-a-bitwise-approach-c8cc088f5a63?source=rss-1f5b5f622e7------2)
 - [Mastering AWS IAM: A Comprehensive Guide to Assuming Roles](https://vipulvyas.medium.com/mastering-aws-iam-a-comprehensive-guide-to-assuming-roles-c79d8e381dc6?source=rss-1f5b5f622e7------2)
-- [Understanding COUNT&lpar;id&rpar; vs. COUNT&lpar;*&rpar; and MySQL Query Optimization](https://vipulvyas.medium.com/understanding-count-id-vs-count-and-mysql-query-optimization-2976b5011308?source=rss-1f5b5f622e7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
