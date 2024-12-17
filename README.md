@@ -2,8 +2,6 @@
 <h3 align="center">:nerd_face:	 full stack developer from India :india:.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipulvyas" alt="vipulvyas" /></a> </p>
-
--  🧖‍♂️ All of my projects are available at my [Github Profile](https://github.com/vipulvyas)  
   
 
 - 🌱 I’m currently learning DevOps, System Design, AWS, Type Script  
