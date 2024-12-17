@@ -19,7 +19,7 @@
 - 📄 Know about my experiences [Resume](https://github.com/vipulvyas/vipulvyas.github.io/blob/main/CV/VIPUL_VYAS_SDE1.pdf)  
   
 
-- ❓ Ask me about anything related to MERN stack, Caching, Searching and related technologies  
+- ❓ Ask me about anything related to MERN stack, System Design, Caching, Searching and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
