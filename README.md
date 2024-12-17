@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipulvyas" alt="vipulvyas" /></a> </p>
   
 
-- 🌱 I’m currently learning DevOps, System Design, AWS, Type Script  
+- 🌱 I’m currently learning System Design, AWS, Type Script  
 
 - 👯 Checkout my portfolio website <a href="https://vipulvyas.github.io/"/>here </a> </h3>
 
