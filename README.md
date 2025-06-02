@@ -24,10 +24,10 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Guide to Database Indexing](https://vipulvyas.medium.com/the-ultimate-guide-to-database-indexing-a53f271b186e?source=rss-1f5b5f622e7------2)
 - [Understanding Composite Index in MySQL](https://vipulvyas.medium.com/understanding-composite-index-in-mysql-6d79171513f9?source=rss-1f5b5f622e7------2)
 - [All About Bloom Filters: A Comprehensive Guide](https://vipulvyas.medium.com/all-about-bloom-filters-a-comprehensive-guide-09005d13199f?source=rss-1f5b5f622e7------2)
 - [MongoDB Internal — Part 1](https://vipulvyas.medium.com/mongodb-internal-part-1-e21e7c17b2f5?source=rss-1f5b5f622e7------2)
-- [Top SQL Interview Question](https://vipulvyas.medium.com/top-sql-interview-question-680e18cb8d56?source=rss-1f5b5f622e7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
