@@ -24,10 +24,10 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Complete Guide to CDN &lpar;Part 2&rpar;: What Really Happens After You Type a URL?](https://vipulvyas.medium.com/the-complete-guide-to-cdn-part-2-what-really-happens-after-you-type-a-url-4103009c4049?source=rss-1f5b5f622e7------2)
 - [The Complete Guide to CDN &lpar;Part 1&rpar;: Why Every Software Engineer Should Understand CDNs](https://vipulvyas.medium.com/the-complete-guide-to-cdn-part-1-why-every-software-engineer-should-understand-cdns-e0b5b1482f7a?source=rss-1f5b5f622e7------2)
 - [Message Queues in System Design: The Backbone of Scalable Systems](https://vipulvyas.medium.com/message-queues-in-system-design-the-backbone-of-scalable-systems-95b900311c3e?source=rss-1f5b5f622e7------2)
 - [A Comprehensive Guide to PostgreSQL MVCC: Transactions, Isolation, Physical Storage and VACUUM](https://vipulvyas.medium.com/a-comprehensive-guide-to-postgresql-mvcc-transactions-isolation-physical-storage-and-vacuum-7e31d028d488?source=rss-1f5b5f622e7------2)
-- [The Ultimate Guide to Database Indexing](https://vipulvyas.medium.com/the-ultimate-guide-to-database-indexing-a53f271b186e?source=rss-1f5b5f622e7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
