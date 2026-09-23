@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vipul Vyas</h1>
 <h3 align="center">:nerd_face:	 Senior full stack engineer from India :india:.</h3>
 
-<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=vipulvyas&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) </p>
+[![trophy](https://github-profile-trophy-orcin-eta.vercel.app/?username=vipulvyas&theme=aura)](https://github.com/ryo-ma/github-profile-trophy) 
   
 
 - 👯 Checkout my portfolio website <a href="https://vipulvyas.github.io/"/>here </a> </h3>
